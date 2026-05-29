@@ -7,5 +7,5 @@ Saya belajar lewat project: dari dataset sejuta umat, hingga hal-hal kecil di se
 ## 🚀 Projects
 Berikut adalah beberapa projek yang saya kerjakan untuk melatih kemampuan analisis dan pemikiran metodologis saya:
 
-* **[Credit Risk Analysis](https://github.com/Z1danp/credit-risk)
+* **[Credit Risk Analysis](https://github.com/Z1danp/credit-risk)**
   Mengoptimalkan klasifikasi risiko kredit pada German Credit Dataset menggunakan pendekatan *Weight of Evidence* (WoE) dan meminimalkan kerugian bisnis berdasarkan *cost matrix*.
