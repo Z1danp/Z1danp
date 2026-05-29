@@ -15,5 +15,5 @@ Beberapa project yang pernah saya kerjakan:
 * **[Credit Risk Analysis](https://github.com/Z1danp/credit-risk)**
   Memprediksi risiko kredit dari German Credit Dataset, dengan pendekatan WoE dan cost matrix untuk mempertimbangkan dampak bisnis dari setiap prediksi yang salah.
 
-## 📬 Reach me
-[LinkedIn](https://www.linkedin.com/in/zidan-p/)
+## 📬 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zidan-blue?logo=linkedin)](https://www.linkedin.com/in/zidan-p/)
