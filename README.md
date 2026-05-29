@@ -5,7 +5,7 @@ Yang paling menarik bagi saya, setidaknya untuk sekarang, bukan sekadar membangu
 Saya belajar lewat project: dari dataset sejuta umat, hingga hal-hal kecil di sekitar kehidupan sehari-hari yang ternyata menarik untuk digali.
 
 ## 🚀 Projects
-Berikut adalah beberapa projek yang saya kerjakan untuk melatih kemampuan analisis dan pemikiran metodologis saya:
+Beberapa project yang pernah saya kerjakan:
 
 * **[Credit Risk Analysis](https://github.com/Z1danp/credit-risk)**
-  Mengoptimalkan klasifikasi risiko kredit pada German Credit Dataset menggunakan pendekatan *Weight of Evidence* (WoE) dan meminimalkan kerugian bisnis berdasarkan *cost matrix*.
+  Memprediksi risiko kredit dari German Credit Dataset, dengan pendekatan WoE dan cost matrix untuk mempertimbangkan dampak bisnis dari setiap prediksi yang salah.
